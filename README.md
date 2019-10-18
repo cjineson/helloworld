@@ -1,4 +1,4 @@
-# WeCode Hello World
+# Hello World
 ## Nodejs
 ```
 node nodejs/helloworld.js
