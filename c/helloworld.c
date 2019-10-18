@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-   printf("Hello, World!\n");
+   char my_string[] = "Hello, World!\n";
+   printf("%s",my_string);
    return 0;
 }
