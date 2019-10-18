@@ -7,6 +7,10 @@ node nodejs/helloworld.js
 ```
 
 ```
+## Ruby
+```
+ruby ruby/helloworld.rb
+```
 ## C
 ```
 gcc -o c/helloworld c/helloworld.c && c/helloworld
