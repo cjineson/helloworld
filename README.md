@@ -7,6 +7,10 @@ node nodejs/helloworld.js
 ```
 
 ```
+## C
+```
+gcc -o c/helloworld c/helloworld.c && c/helloworld
+```
 ## Go
 ```
 go run go/helloword.go
