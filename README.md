@@ -19,6 +19,10 @@ javac java/helloworld/Helloworld.java && java -cp java helloworld/Helloworld
 ```
 python3 python/helloworld.py
 ```
+## Bash
+```
+./bash/helloworld.sh
+```
 ## R
 ```
 Rscript r/helloworld.r
@@ -26,7 +30,7 @@ Rscript r/helloworld.r
 ## HTML
 ### Windows
 ```
-start chrome 
+start chrome html/helloworld.html
 ```
 ### OSX
 ```
