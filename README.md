@@ -5,7 +5,7 @@ node nodejs/helloworld.js
 ```
 ### ReactJS
 ```
-
+cd react-hello && npm i && npm start
 ```
 ## Ruby
 ```
