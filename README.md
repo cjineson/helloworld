@@ -17,7 +17,7 @@ gcc -o c/helloworld c/helloworld.c && c/helloworld
 ```
 ## Go
 ```
-go run go/helloword.go
+go run go/helloworld.go
 ```
 ## Java
 ```
