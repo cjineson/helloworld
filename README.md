@@ -25,7 +25,7 @@ javac java/helloworld/Helloworld.java && java -cp java helloworld/Helloworld
 ```
 ## Python
 ```
-python3 python/helloworld.py
+python python/helloworld.py
 ```
 ## Bash
 ```
