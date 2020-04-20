@@ -17,7 +17,7 @@ gcc -o c/helloworld c/helloworld.c && c/helloworld
 ```
 ## Go
 ```
-go run go/helloword.go
+go run go/helloworld.go
 ```
 ## Java
 ```
@@ -25,7 +25,7 @@ javac java/helloworld/Helloworld.java && java -cp java helloworld/Helloworld
 ```
 ## Python
 ```
-python3 python/helloworld.py
+python python/helloworld.py
 ```
 ## Bash
 ```
